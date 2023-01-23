@@ -1,0 +1,30 @@
+aclrylicpaints
+ 10
+ 1100
+oilpaints
+ 10
+ 1200
+sandpaints
+ 10
+ 100
+oilpastels 
+ 10
+ 1000
+waterpaints
+ 10
+ 1200
+turpentine 
+ 10
+ 232
+EnamelPaint 
+ 10
+ 12
+fabercastle 
+ 10
+ 1000
+crayons 
+ 10
+ 14
+pencil 
+ 10
+ 13
